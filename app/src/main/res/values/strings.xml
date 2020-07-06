@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">MyPhotoStock</string>
+
+
+    <string name="camera">Camera</string>
+    <string name="scanner_database">Scanner data</string>
+    <string name="albums">Albums</string>
+    <string name="p_photo_capture">Photo capture succeeded:</string>
+    <string name="e_photo_capture">Photo capture failed: </string>
+    <string name="logout_alert">Do you want to log out?</string>
+    <string name="Logout">Logout</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="alert_add_new_album">Add new album</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="delete_question">Delete this item?</string>
+    <string name="not_back">You can not back this action.</string>
+    <string name="alert_add_new_scanner_list">Add new scanner list</string>
+    <string name="alert_add_new_scanner_record">Add new record in list</string>
+    <string name="photo_preview">Preview of photo</string>
+    <string name="capture">Capture</string>
+    <string name="torch">flash</string>
+
+    //Login activity
+    <string name="email_editText">Email</string>
+    <string name="password_editText">Password</string>
+    <string name="login_text">Login</string>
+    <string name="signUp_text">"Don't have account"</string>
+    <string name="e_enter_mail">Please enter a email</string>
+    <string name="e_enter_valid_mail">Please enter valid email</string>
+    <string name="e_enter_password">Please enter a password</string>
+    <string name="e_login_fail">Login Failed</string>
+
+    //Register activity
+    <string name="register_button">Register</string>
+    <string name="e_password_requirements">Password must has minimum 6 characters</string>
+    <string name="p_register_success">Registration successful</string>
+    <string name="e_sign_up_fail">Sign Up failed. Try again.</string>
+    <string name="sample_data">Sample data</string>
+
+    //Other
+    <string name="write_text">"Write text…"</string>
+    <string name="photo_upload_successful">Photo uploaded successful</string>
+    <string name="Choose_album">Choose album</string>
+    <string name="ok">OK</string>
+    <string name="no_album_created">You do not have any albums. First you have to create new album.</string>
+    <string name="image">Image</string>
+    <string name="change_album">Change album</string>
+    <string name="delete_photo_question">Delete this photo?</string>
+    <string name="p_photo_deleted">Photo successfully deleted!</string>
+    <string name="e_photo_deleted_fail">Occur error during deleting photo.</string>
+    <string name="p_album_deleted">Album and photos successfully deleted!</string>
+    <string name="e_delete_album_fail">Occur error during deleting album.</string>
+    <string name="e_change_album">Occur error during changing album</string>
+    <string name="p_changed_album">Album is changed</string>
+    <string name="e_barcode_detector_fail">Detector not available. Try again later</string>
+
+    //Scanner
+    <string name="scanner_title">Barcode scanner</string>
+    <string name="scanner_result">Scanner result:</string>
+    <string name="scanner_choose_list">Choose scanner list</string>
+    <string name="add_to_list">Add to list</string>
+    <string name="e_no_scan_data">No scan data</string>
+    <string name="e_no_scanner_list">To save data you have to create scanner list first</string>
+    <string name="p_added_to_list">Data added to list successfully!</string>
+
+</resources>

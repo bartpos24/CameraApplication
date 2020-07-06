@@ -1,0 +1,41 @@
+[33mcommit 5d5b0050098d1a679839404936e3ed47eba9c42d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: bartpos24 <bartek.poskart24@gmail.com>
+Date:   Wed Jul 1 14:49:34 2020 +0200
+
+    Added login and register activity
+
+[33mcommit c9adc48228fd3d0e056d6a05289e8c329f91e01f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: MirrozDev <kapitanmirek@wp.pl>
+Date:   Wed Jul 1 13:31:38 2020 +0200
+
+    Fix double resources error
+
+[33mcommit debb1aff4c0153e3925f105b012f65cc7754d670[m
+Author: MirrozDev <kapitanmirek@wp.pl>
+Date:   Wed Jul 1 13:17:12 2020 +0200
+
+    Added icon
+
+[33mcommit 5b38dc0ced7b59b3a76cc8d62d8482756b804444[m
+Author: MirrozDev <kapitanmirek@wp.pl>
+Date:   Wed Jul 1 12:47:16 2020 +0200
+
+    Update .gitignore file for firebase
+
+[33mcommit abd115dba382183eb519346a0bee7631fb62c418[m
+Author: senti50 <46302409+senti50@users.noreply.github.com>
+Date:   Wed Jul 1 00:48:20 2020 +0200
+
+    adding switching flash and focus to camera
+
+[33mcommit 0d3b7d32a39b37be57f64d2a5563fbd7c4a99bc0[m
+Author: senti50 <46302409+senti50@users.noreply.github.com>
+Date:   Tue Jun 30 17:01:04 2020 +0200
+
+    adding photo preview and the ability to delete photo
+
+[33mcommit 0d31e28b386e04eb5056fa9c6563733458317268[m
+Author: senti50 <46302409+senti50@users.noreply.github.com>
+Date:   Mon Jun 29 13:19:08 2020 +0200
+
+    Initial commit

@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">MyPhotoStock</string>
+
+
+
+
+    <string name="camera">Aparat</string>
+    <string name="scanner_database">Dane skanera</string>
+    <string name="albums">Albumy</string>
+    <string name="p_photo_capture">Poprawnie zrobiono zdjęcie:</string>
+    <string name="e_photo_capture">Wystąpił błąd przy robieniu zdjęcia: </string>
+    <string name="logout_alert">Czy chcesz się wylogować?</string>
+    <string name="Logout">Wyloguj</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="alert_add_new_album">Dodaj nowy album</string>
+    <string name="add">Dodaj</string>
+    <string name="cancel">Wróć</string>
+    <string name="delete">Usuń</string>
+    <string name="delete_question">Usunąć ten wpis?</string>
+    <string name="not_back">Tej akcji nie można cofnąć.</string>
+    <string name="alert_add_new_scanner_list">Dodaj nową listę danych</string>
+    <string name="alert_add_new_scanner_record">Dodaj nowy wpis w liście</string>
+    <string name="photo_preview">Podgląd zdjęcia</string>
+    <string name="capture">Zrób zdjęcie</string>
+    <string name="torch">Lampa błyskowa</string>
+
+    //Login activity
+    <string name="email_editText">E-mail</string>
+    <string name="password_editText">Hasło</string>
+    <string name="login_text">Zaloguj się</string>
+    <string name="signUp_text">"Nie mam konta"</string>
+
+    //Register activity
+    <string name="register_button">Rejestracja</string>
+    <string name="e_enter_mail">Proszę wprowadzić adres e-mail</string>
+    <string name="e_enter_valid_mail">Proszę wprowadzić prawidłowy adres e-mail</string>
+    <string name="e_enter_password">Proszę wprowadzić hasło</string>
+    <string name="e_login_fail">Logowanie nie powiodło się</string>
+    <string name="e_password_requirements">Hasło musi mieć minimum 6 znaków</string>
+    <string name="p_register_success">Rejestracja zakończona pomyślnie</string>
+    <string name="e_sign_up_fail">Wystąpił błąd podczas rejestracji. Spróbuj ponownie później.</string>
+    <string name="sample_data">Przykładowe dane</string>
+
+    //Other
+    <string name="write_text">"Wpisz tekst…"</string>
+    <string name="photo_upload_successful">Zdjęcie przesłano poprawnie</string>
+    <string name="Choose_album">Wybierz album</string>
+    <string name="ok">OK</string>
+    <string name="no_album_created">Nie masz żadnych albumów. Najpierw musisz utworzyć nowy album.</string>
+    <string name="image">Obraz</string>
+    <string name="change_album">Zmień album</string>
+    <string name="delete_photo_question">Usunąć to zdjęcie?</string>
+    <string name="p_photo_deleted">Zdjęcie poprawnie usunięte!</string>
+    <string name="e_photo_deleted_fail">Wystąpił błąd podczas usuwania zdjęcia.</string>
+    <string name="p_album_deleted">Album i zdjęcie poprawnie usunięte!</string>
+    <string name="e_delete_album_fail">Wystąpił błąd podczas usuwania albumu.</string>
+    <string name="e_change_album">Wystąpił błąd podczas zmiany albumu</string>
+    <string name="p_changed_album">Album został zmieniony</string>
+    <string name="e_barcode_detector_fail">Detektor nie dostępny. Spróbuj ponownie później</string>
+
+    //Scanner
+    <string name="scanner_title">Skaner kodów</string>
+    <string name="scanner_result">Wyniki skanowania:</string>
+    <string name="scanner_choose_list">Wybierz listę skanera</string>
+    <string name="add_to_list">Dodaj do listy</string>
+    <string name="e_no_scan_data">Brak zeskanowanych danych</string>
+    <string name="e_no_scanner_list">Aby zapisać dane musisz najpierw utworzyć listę skanera</string>
+    <string name="p_added_to_list">Dane poprawnie zapisano w liście!</string>
+
+</resources>

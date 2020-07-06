@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cnb_unselectedColor="#666666">
+
+    <item
+        android:id="@+id/scanner"
+        android:icon="@mipmap/icon_qr_code_foreground"
+        android:title="@string/scanner_database"
+        app:cnb_iconColor="@color/scanner"
+        />
+    <item
+        android:id="@+id/albmus"
+        android:icon="@mipmap/icon_albums_foreground"
+        android:title="@string/albums"
+        app:cnb_iconColor="@color/albums"
+        />
+    <item
+        android:id="@+id/camera"
+        android:icon="@mipmap/icon_camera_foreground"
+        android:title="@string/camera"
+        app:cnb_iconColor="@color/camera"
+        />
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
+        android:title="@string/Logout"
+        app:cnb_iconColor="@color/camera"
+        />
+
+
+
+</menu>
